@@ -1,4 +1,5 @@
 .App {
+  float: right;
   text-align: center;
 }
 
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.d1{
+  padding-left: 230px;
+  padding-top: 80px;
+  color:black;
+  font-size: 20px;
 }

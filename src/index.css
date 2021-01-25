@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.header1{
+  background-color: blue;
+  color:white;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 5px;
+}
+.form1{
+  background-color:darkslateblue;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  padding: 30px;
+  margin: 20px;
+}
+.show{
+  text-align: center;
+  margin: 10px;
+  font-size: 30px;
+}
